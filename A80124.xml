@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Collections of letters from severall parts, concerning the affaires of the armies in England and Ireland licensed by the secretary of the army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80124</idno>
+            <idno type="STC">Wing C5216</idno>
+            <idno type="STC">Thomason E579_10</idno>
+            <idno type="STC">ESTC R206181</idno>
+            <idno type="EEBO-CITATION">99865357</idno>
+            <idno type="PROQUEST">99865357</idno>
+            <idno type="VID">165475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165475)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 89:E579[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Collections of letters from severall parts, concerning the affaires of the armies in England and Ireland licensed by the secretary of the army.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Robert Ibbitson dwelling in Smithfield neer Hosier Lane,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165475:1" rendition="simple:additions"/>
+            <p> Collections of LETTERS from ſeverall parts, CONCERNING The Affaires of the ARMIES IN <hi>ENGLAND</hi> AND IRELAND</p>
+            <p>Licenſed by the Secretary of the Army.</p>
+            <p>Printed at <hi>London</hi> for <hi>Robert lbbitſon</hi> dwelling in Smithfield neer <hi>Hoſier Lane,</hi> 1649.</p>
+            <pb facs="tcp:165475:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="collection">
+            <pb n="1" facs="tcp:165475:2"/>
+            <head>Collections of LETTERS <hi>from ſeverall parts,</hi> Concerning the Affaires of the Ar<g ref="char:EOLhyphen"/>mies in <hi>England</hi> and <hi>Ireland.</hi>
+            </head>
+            <div type="letter">
+               <head>A Letter from <hi>Milford Haven.</hi>
+               </head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>
+                        <seg rend="decorInit">W</seg>E have taken a Flemiſh Veſſell, called the <hi>Swallow of Briſtol,</hi> about 300 Tun burden, which was forced into this Harbour by contrary winds, ſhe came from <hi>Waterford,</hi> having on board her 70 Tun of Kilpe, 13 Packs of skins. 8 barrels of Tallow, containing 2022 pound weight, 6 Packs of Wooll, containing twenty ſtone in each pack. 5 ſacks of Linnen Yarn, containing 600 pound
+<pb n="2" facs="tcp:165475:3"/> weight, and 9 Hogsheads of Honey, ſhee was ſeized upon by Col <hi>Blake,</hi> and ſince ordered by him to goe for <hi>Dublin,</hi> with a Troope of Horſe, and from thence to returne to <hi>Briſtoll,</hi> where he is to deliver both ſhip and goods unto the Collectors there. I have taken 2000<hi>l.</hi> ſecurity of the Merchant to the uſe of the Com<g ref="char:EOLhyphen"/>monwealth for the performance of it.</p>
+                     <closer>
+                        <signed>Your Servant, Hen: White.</signed>
+                        <dateline>
+                           <hi>From before Milford Haven</hi> 
+                           <date>28 October 1649.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="letter">
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>THE Lord Lieutenant hath taken <hi>Wexford,</hi> but I preſume, you will receive notice thereof be<g ref="char:EOLhyphen"/>fore this commeth to your hands therefore I omit that.</p>
+                     <p>
+                        <hi>Owen Roe</hi> is upon his march from the North, and it is given out, and intelligence from ſeverall parts in<g ref="char:EOLhyphen"/>formes mee, that it is in order to a conjunction with <hi>Ormond,</hi> and that hee is hired with a great ſumme of mony, and to Command in cheife their Forces: I cannot relate this but as common reports, and intelli<g ref="char:EOLhyphen"/>gence.</p>
+                     <p>And it is further reported, that he intends to burne all our quarters unto <hi>Dublin.</hi>
+                     </p>
+                     <p>I regard not theſe threats, nor feare him not, our ſtrong God is alwayes the ſame, in whoſe ſtrength I ſhall not feare to goe out againſt him, or any that ſhall come to annoy theſe Quarters, and not doubt but to give good Account thereof, and if their Conjunction prove well, it will be but in order
+<pb n="3" facs="tcp:165475:3"/> to their Deſtruction, is the confidence of,</p>
+                     <closer>
+                        <signed>Your Friend and Servant. John Hewſon.</signed>
+                        <dateline>
+                           <hi>Dublin</hi> 
+                           <date>20 Octo. 1649,</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Mr. Peters</hi> Letter from <hi>Ireland.</hi>
+               </head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>BRiefely, the 11 of <hi>September</hi> we took in <hi>Tredagh</hi> as I writ, the 11 of <hi>October</hi> we took in <hi>Wexford,</hi> where the hand of God wonderfully appeared, we were forced to ſtorme <hi>Wexford,</hi> where the enemy was ſtrong every way, our men (after battery of the Caſtle, and yeelded by Captain <hi>Stafford</hi> the Govern<g ref="char:EOLhyphen"/>our,) entered upon their flight over the water, and two thouſand were killed and drowned, Col: <hi>Lehunt</hi> en<g ref="char:EOLhyphen"/>tered with his Life-guard, and was wounded with a Pike, Col: <hi>Roe's</hi> jaw broken with a Bullet, who is ſince dead, we loſt but five men every way, we have neere 80 ſhips, and 100 Boates to fiſh in, of which here is a fine Trade.</p>
+                     <p>God hath ſpoyled the ſpoyler, abundance of plun<g ref="char:EOLhyphen"/>der and rich; It is a fine ſpot for ſome godly Con<g ref="char:EOLhyphen"/>gregation, where houſe and land wait for Inhabitants, and occupiers, I wiſh they would come.</p>
+                     <p>On Friday laſt we took <hi>Roſſe</hi> by condition upon the battery, where our horſe could hardly have entered. The Engliſh ſtayed with us, about 3 or 400. the Iriſh went over the water.</p>
+                     <p>
+                        <hi>Waterford</hi> will not take in <hi>Ormonds</hi> Souldiers, who would have had 2000 gone in, but they refuſed, be<g ref="char:EOLhyphen"/>cauſe they ſaid he had no Army to relieve them. Wee are marched to <hi>Doncannon,</hi> Col: <hi>Tuttle,</hi> and Col. <hi>Col<g ref="char:EOLhyphen"/>lams</hi> Regiments of Foot, and my Lords of Horſe, are
+<pb n="4" facs="tcp:165475:4"/> gone thither: VVe heare <hi>Owen Roe Oneale</hi> is upon his march this way. I never ſaw ſuch diſcoveries of Gods preſence in the world, only we had ſickly com<g ref="char:EOLhyphen"/>panies, even to thouſands.</p>
+                     <p>Send us cloaths of all kinds, I pray, but be ſure to help us by what intereſt you have in heaven. From the North to <hi>Roſſe</hi> we have all cleare. I wonder thou<g ref="char:EOLhyphen"/>ſands doe not come out of <hi>England</hi> to ſee this worke, which I hope is the <hi>fulfilling of Propheſies:</hi> However I bleſſe the Lord for what I ſee. God is with our Ge<g ref="char:EOLhyphen"/>nerall certainly, however he deale with him. I ſay pray for us, and him who is</p>
+                     <signed>Yours, <hi>H. Peters.</hi>
+                     </signed>
+                     <closer>
+                        <dateline>
+                           <hi>Wexford</hi> 
+                           <date>22 <hi>Octob.</hi> 1649.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="letter">
+               <head>Another Letter.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>SIR <hi>Charles Coot</hi> with a party about three thouſand hath taken <hi>Colraine</hi> and put moſt to the ſword, a<g ref="char:EOLhyphen"/>mong which a brother of <hi>George Monroe</hi> is killed, another brother of his leaping over the wals to eſcape was drowned, the Governour alſo Colonell <hi>Guordon</hi> cannot be found, but its thought he is killed.</p>
+                     <p>Sir <hi>Charles</hi> underſtanding notice was gone to <hi>Mon<g ref="char:EOLhyphen"/>roe</hi> before <hi>Belfaſt,</hi> of his being about <hi>Colraine,</hi> hee forthwith marched out of the Towne, leaving in it a Garriſon, and met <hi>George Monroe</hi> about halfe way to <hi>Carickefergus,</hi> fought, and totally routed him, and killed many of them, and he and Col. <hi>Hambleton</hi> are fled to <hi>Charlemount.</hi> This is ſtrange newes and much affect us here.</p>
+                     <p>Sir <hi>Charles</hi> preſently marched to <hi>Carickefergus,</hi> and
+<pb n="5" facs="tcp:165475:4"/> the 23 inſtant laid fiedge to it, we heare alſo that a ſtrong party from <hi>Dublin</hi> are come into the North. Alſo a ſhip of the Parliament of <hi>England</hi> comming into the North and finding a ſmall Frigot riding near <hi>Carickefergus,</hi> which he was informed had tranſported Sir <hi>James Mungomery</hi> out of <hi>Ireland</hi> into <hi>Scotland,</hi> he ſurprized her, the Frigot was one of ſix Guns, and twenty Oaers imployed by the State of <hi>Scotland,</hi> in the Iriſh Seas, to obſerve all paſſages there, and the Captaine ſent to Captaine <hi>Clarke</hi> Commander of the Engliſh, acquainting him therewith, <hi>Clarke</hi> replyed he was confident he was a Knave, and that none be<g ref="char:EOLhyphen"/>longing to the States of <hi>Scotland</hi> certainly would tranſport ſuch a Traytor as Sir <hi>James Mungomery,</hi> therefore he would keep her, This is all at preſent from him that is,</p>
+                     <closer>
+                        <salute>Sir</salute> 
+                        <signed>yours to ſerve you,</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="letter">
+               <head>The copy of a Letter from Col. <hi>Hewſon</hi> in <hi>Ireland.</hi>
+               </head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR.</salute>
+                     </opener>
+                     <p>ITs certaine <hi>Owen Roe</hi> is joyned with <hi>Ormond,</hi> but as certaine, but in order to both their Ruines, <hi>Though hand joyne in hand they ſhall not goe unpuniſhed.</hi> After the Lieut. Generalls Regiment of Horſe came from <hi>Venables,</hi> hee was much diſtreſſed by <hi>George Monroe</hi> in conjunction with <hi>Phillim Oneal,</hi> but Sir <hi>Theoph. Jones</hi> came ſeaſonably to his reliefe, with a thouſand Horſe and Foot; ſo that the Enemy who had fired <hi>Liſnegarvin</hi> and <hi>Antrim</hi> (though our men kept the Caſtles in both) fled into their Garriſons, and now <hi>Venables</hi> is in the Field, and I hope joyned with my Lord Preſident, who together will be at leaſt
+<pb n="6" facs="tcp:165475:5"/> 3000. Horſe and Foot; and I hope in ſhort time, to give a good account of the North parts of this Nati<g ref="char:EOLhyphen"/>on; <hi>Roſſe</hi> was taken laſt weeke, and our Army is now at <hi>Doncannon.</hi>
+                     </p>
+                     <p>Sir, I am in haſte, but this relation is a briefe ac<g ref="char:EOLhyphen"/>count of our affaires, as they came to the knowledge of</p>
+                     <signed>Your loving Friend, <hi>J. Hewſon.</hi>
+                     </signed>
+                     <closer>
+                        <dateline>
+                           <hi>Dublin</hi> 
+                           <date>29. <hi>Octob.</hi> 1649.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="letter">
+               <head>Another Letter from <hi>Ireland.</hi>
+               </head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>SInce my laſt, <hi>Corke</hi> and <hi>Younghall</hi> aſſuredly are ours, they have their Commiſſioners with my Lord, for Indempnity &amp;c.</p>
+                     <p>
+                        <hi>Bandon</hi> alſo and <hi>Kingſale</hi> are comming in, <hi>Inche<g ref="char:EOLhyphen"/>quins</hi> Trumpeter came newly to my Lord, who would gladly doe himſelf ſome good, his Lady is turned out of <hi>Cork<g ref="char:punc">▪</g> Oneale</hi> is joyned to them, and we have fac'd them, but they doe not like us.</p>
+                     <p>I pray let all men know, that if any Foot will come to Mr. <hi>Peters</hi> at <hi>Milford,</hi> he is ready to carry them for <hi>Corke,</hi> or <hi>Wexford,</hi> and provide comfortably for them. Indeed I ſaw at <hi>Wexford</hi> the Hogs eat their Stayne, and drink their blood, and am perſwaded God will follow his vengeance home.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Dublin</hi> 
+                           <date>5 <hi>Novemb.</hi> 1649.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="imprimatur">
+               <p>Imprimatur</p>
+               <closer>
+                  <signed>Jo: Ruſhworth.</signed>
+                  <dateline>
+                     <date>13 <hi>Novemb.</hi> 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
